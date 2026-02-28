@@ -1,4 +1,4 @@
-# EElevenLabs Strategic Representative: GTM Logic and Architecture
+# ElevenLabs Strategic Representative: GTM Logic and Architecture
 This repository contains the underlying "Revenue Architecture" and GTM frameworks used to power my ElevenLabs Strategic Representative (AI Agent).
 
 1. Project Overview
