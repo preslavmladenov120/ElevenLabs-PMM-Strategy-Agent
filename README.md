@@ -3,7 +3,7 @@ This repository contains the underlying "Revenue Architecture" and GTM framework
 
 1. Project Overview
 
-As an unconventional Product Marketing Manager, I know that my CV doesn’t scream 'traditional PMM' at first glance. That is exactly why I wanted to make your own product vouch for me. I built this agent to help me properly promote myself to you as a Senior Product Marketer with a storytelling, high-conversion approach—demonstrating my value through the platform itself even before the interview stages.
+As an unconventional Product Marketing Manager, I know that my CV doesn’t scream "traditional PMM" at first glance. That is exactly why I wanted to make your own product vouch for me. I built this agent to help me properly promote myself as a Senior Product Marketer with a storytelling, high-conversion approach, demonstrating my value through the platform itself even before the interview stages. Because I prioritize privacy and user experience, I have disabled the "Store Call Audio" function to respect the recruiter’s privacy. This ensures an environment where you can freely stress-test the agent and the strategic narratives I’ve uploaded to it.
 
 2. The System Prompt (Logic Layer)
 
