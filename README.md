@@ -52,3 +52,5 @@ To provide concrete evidence of my "Technical-to-Human" approach, I have include
  - The Strahm Transformation: A case study in high-agency brand building where I transformed two paragraphs of repetitive brochure text into an 8-page essential narrative, proving I can build premium brand authority from "zero source material".
 
  - 4-Phase Partner Lifecycle Playbook: A strategic framework focused on the "Rebate & Retention" engine. This playbook outlines how to manage the partner journey—from initial onboarding to long-term loyalty—by using financial incentives and performance milestones to secure the revenue funnel.
+-------------------------------------------------------------------------------------
+Talk to the Agent: https://elevenlabs.io/app/talk-to?agent_id=agent_1301kjgm6aykespvr3ve3jf7m79j&branch_id=agtbrch_1601kjgm6crjfc9t6dad6ng9mvka
