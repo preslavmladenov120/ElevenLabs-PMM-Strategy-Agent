@@ -1,5 +1,6 @@
 # ElevenLabs Strategic Representative: GTM Logic and Architecture
 This repository contains the underlying "Revenue Architecture" and GTM frameworks used to power my ElevenLabs Strategic Representative (AI Agent).
+In the /strategy folder, you will find my complete campaign: "From Gatekeeper to Growth Partner." This strategy outlines how ElevenLabs Agents can transform the standard, cold "we decided to move forward with other candidates" email into a warm, voice-first strategic roadmap for candidate success.
 
 1. Project Overview
 
