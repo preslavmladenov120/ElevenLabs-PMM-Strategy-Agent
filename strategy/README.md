@@ -20,4 +20,4 @@ Explore the Full Strategy:
 
 Download the full GTM strategy from the /strategy folder in this repository.
 
-Talk to my ElevenLabs-powered agent to hear this strategy in action: https://elevenlabs.io/app/talk-to?agent_id=agent_1301kjgm6aykespvr3ve3jf7m79j&branch_id=agtbrch_1601kjgm6crjfc9t6dad6ng9mvka
+Don't just read the strategy—interview it. My ElevenLabs Strategic Representative is fully trained on the "From Gatekeeper to Growth Partner" framework and is ready to discuss the ROI logic in real-time: https://elevenlabs.io/app/talk-to?agent_id=agent_1301kjgm6aykespvr3ve3jf7m79j&branch_id=agtbrch_1601kjgm6crjfc9t6dad6ng9mvka
