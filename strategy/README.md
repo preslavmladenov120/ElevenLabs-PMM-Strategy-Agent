@@ -18,6 +18,6 @@ By utilizing an ElevenLabs AI-powered agent to provide personalized feedback, a 
 
 Explore the Full Strategy:
 
-Download the full GTM strategy from the /strategy folder in this repository.
+Download the full GTM strategy from the 1strategy folder in this repository.
 
 Talk to my ElevenLabs-powered agent to hear this strategy in action: https://elevenlabs.io/app/talk-to?agent_id=agent_1301kjgm6aykespvr3ve3jf7m79j&branch_id=agtbrch_1601kjgm6crjfc9t6dad6ng9mvka
