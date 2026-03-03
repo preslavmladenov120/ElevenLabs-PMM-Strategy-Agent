@@ -3,7 +3,7 @@
 
 * In the /strategy folder, you will find my speculative GTM campaign, "From Gatekeeper to Growth Partner." This is a self-initiated exercise where I identified a novel enterprise use case and built out a full go-to-market strategy. This strategy outlines how ElevenLabs Agents could transform the standard, cold "we decided to move forward with other candidates" email into a warm, voice-first strategic roadmap for candidate success.
   
-* See my whole portfolio in its dedicated Google Drive folder by following this link:https://drive.google.com/drive/folders/1gtVUlSKNsV8FuEH61EVROBvTH2GMOq0b?usp=drive_link
+* See my whole portfolio in its dedicated Google Drive folder by following this link: https://drive.google.com/drive/folders/1gtVUlSKNsV8FuEH61EVROBvTH2GMOq0b?usp=drive_link
 
 1. Project Overview
 
